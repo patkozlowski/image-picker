@@ -3,8 +3,7 @@ ul.thumbnails.image_picker_selector {
   overflow: auto;
   list-style-image: none;
   list-style-position: outside;
-     width: 140px;
-   height: 140px;
+
   list-style-type: none;
   padding: 0px;
   margin: 0px; }
@@ -21,6 +20,8 @@ ul.thumbnails.image_picker_selector {
     float: none; }
   /* line 30, source/sass/image-picker.scss */
   ul.thumbnails.image_picker_selector li {
+         width: 140px;
+   height: 140px;
     margin: 0px 12px 12px 0px;
     float: left; }
     /* line 35, source/sass/image-picker.scss */
